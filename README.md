@@ -29,9 +29,6 @@ The list is broken down into the following categories for easy navigation:
 3.  Pick a category you want to learn and start with the introductory rooms!
 4.  Happy Hacking!
 
-## 📄 Download the List
-
-Get the categorized PDF here: **[TryHackMe-Free-Labs.pdf](TryHackMe-Free-Labs.pdf)**
 
 ## 🤝 Contributing
 
